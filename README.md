@@ -14,14 +14,14 @@ A calm, responsive study planner you can use in your browser. Add assignments an
 
 ## Run it locally
 
-No build tools or dependencies are required. Download or clone this repository, then open index.html in a modern browser.
+No build tools or dependencies are required. Download or clone this repository, then open the index.html file in a modern browser.
 
 ## Publish with GitHub Pages
 
 1. Open this repository's **Settings**.
 2. Select **Pages** in the left menu.
 3. Under **Build and deployment**, choose **Deploy from a branch**.
-4. Select the main branch and / (root) folder, then save.
+4. Select the main branch and the root folder, then save.
 5. GitHub Pages will show the published site URL on the Pages settings screen once it is ready.
 
 Tasks are stored on the device and browser where you use the site. They are not synced between devices.
